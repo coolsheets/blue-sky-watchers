@@ -1,0 +1,13 @@
+* {
+    /* from css */
+    --primary-color:#2000F0;
+    --secondary-color:#FFFFFF;
+    --tertiary-color:#E3E3E3;
+
+    /* eyedrop from website */
+    --blue-sky-color: #0064ff;
+    --sun-color: #ffda24;
+    --newsletter-background-blue: #40c2f3;
+    --newsletter-color: #003b95;
+    --chat-background-color: #e70033;
+}
