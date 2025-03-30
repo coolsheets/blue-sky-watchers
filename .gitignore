@@ -136,4 +136,4 @@ dist
 .pnp.*
 
 .testing
-.apiTokens
+.apiTokens.json
